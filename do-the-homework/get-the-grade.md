@@ -1,0 +1,1 @@
+[Try your hardest](get-a-high-grade.md)
