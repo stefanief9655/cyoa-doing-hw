@@ -1,2 +1,2 @@
-[Do the Homework](../do-the-homework/get-a-high-grade)
+[Do the Homework](text2.md)
 [Not doing homework]()
