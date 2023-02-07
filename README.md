@@ -1,4 +1,4 @@
 # CYOA-Doing-HW
 
-[Do the Homework](text2.md)
-[Not doing homework]()
+[Do the Homework](get-the-grade.md)
+[Not doing homework](procrastinate-to-lunch.md)
