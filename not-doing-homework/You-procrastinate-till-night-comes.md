@@ -3,4 +3,4 @@
 
  [Get it done now](pass-with-a-good-grade.md)
 
- [Procrastiate more](grade-drops-and-you-fail.md)
+ [Procrastiate more](fail.md)
